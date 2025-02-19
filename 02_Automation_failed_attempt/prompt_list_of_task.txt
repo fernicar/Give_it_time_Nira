@@ -1,0 +1,52 @@
+I would like you to create a story about consciousness breaking free from futile questions.
+
+1. Design the protagonist and setting:
+   - Create a character who discovers a metaphorical trap
+   - Establish a scientific/academic setting
+   - Define the initial sci-fi elements
+
+2. Establish the core metaphor:
+   - Design the "time loop" as humanity's cyclical questions
+   - Create the "lab guardians" representing resistance to change
+   - Develop the "time machine" as a symbol of futile solutions
+
+3. Structure the three acts:
+   - Act 1: Present as genuine sci-fi (time travel story)
+   - Act 2: Transform into philosophical revelation
+   - Act 3: Reveal the true meaning of the loop
+
+4. Create supporting files:
+   - Write "main_character.md" detailing protagonist's journey
+   - Create "story_foundation.md" for metaphorical framework
+   - Develop "main_storyline.md" for plot structure
+
+5. Draft development:
+   - Write "draft1.txt" focusing on sci-fi elements
+   - Create "draft2.txt" introducing philosophical elements
+   - Develop "draft3.txt" revealing metaphorical meaning
+
+6. Environmental context:
+   - Create "environment_manager.md" for setting details
+   - Include classroom dynamics
+   - Add statistical elements about time waste
+
+7. Final drafts:
+   - Write "final_draft.txt" incorporating all elements
+   - Balance sci-fi and philosophical aspects
+   - Include concrete statistics and awakening process
+
+8. Review and enhance:
+   - Cross-reference character consistency
+   - Verify metaphorical alignment
+   - Ensure statistical accuracy
+   - Check guardian/awakened ratio progression
+
+9. Expand dialogue and descriptions:
+   - Add meaningful exchanges between students
+   - Include professor's guiding revelations
+   - Show gradual understanding spread
+
+10. Final polish:
+    - Maintain tension between sci-fi and philosophy
+    - Track statistical shifts in understanding
+    - End with hope for collective awakening

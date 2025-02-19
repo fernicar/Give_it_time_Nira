@@ -1,0 +1,11 @@
+I would like you to create a fictional story about a man, wo is travelling.
+1. name and design the caracter.
+2. determine his location and destination.
+3. devise a method of transport.
+4. use the hero's journey.
+5. write a new file named "main_character.md" into which all details about the main character should go.
+6. write a plot overview to summarise the sory into a new file named "main_storyline.md"
+7. read the main_storyline.md and cross reference defined characteristics updating the story where needed, create "draft2.txt" and add the full updated story.
+8. read the main_storyline.md again, then create a new file named "environment_manager.md" which will self describe itself as the environment, by injecting text into and around existing text with contextual and temporal awareness.
+9. read the "draft2.txt" then excluding speech, expand text by a factor of three, then write the new complete updated "draft3.txt"
+10. read the updated "draft3.txt" and use the "environment_manager.md" guidance to inject text describing the environmental details as instructed to expand the story, the final draft should be named "final_draft.txt"
